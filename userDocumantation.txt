@@ -1,0 +1,67 @@
+User Documentation:
+
+This user documentation will guide you through the available options.
+
+1. Schedule an event:
+   - Select option 1 from the menu.
+   - Follow the prompts to enter the event details, including description, type, date, time, and priority.
+   - The event will be added to the calendar.
+
+2. View all events:
+   - Select option 2 from the menu.
+   - All events in the calendar will be displayed, including their details such as description, type, date, time, and priority.
+
+3. Remove an event:
+   - Select option 3 from the menu.
+   - Enter the event ID to remove the event from the calendar.
+   - The event will be removed if found, and a success message will be displayed.
+
+4. Modify an event:
+   - Select option 4 from the menu.
+   - Enter the event ID to modify the event in the calendar.
+   - Follow the prompts to enter the new details of the event.
+   - The event will be updated if found, and a success message will be displayed.
+
+5. Search events of a specific date:
+   - Select option 5 from the menu.
+   - Enter the date in the format dd-MM-yyyy to view events on that specific date.
+   - The events on the specified date will be displayed, including their details.
+
+6. Search for events by type:
+   - Select option 6 from the menu.
+   - Enter the event types separated by commas (e.g., MEETING,APPOINTMENT,TASK).
+   - The events matching the specified types will be displayed, including their details.
+
+7. Search events by description:
+   - Select option 7 from the menu.
+   - Enter a keyword to search for events with descriptions containing that keyword.
+   - The events matching the keyword will be displayed, including their details.
+
+8. Search events by year:
+   - Select option 8 from the menu.
+   - Enter the year to search for events occurring in that year.
+   - The events in the specified year will be displayed, including their details.
+
+9. Search events by priority:
+   - Select option 9 from the menu.
+   - The events will be sorted by priority and displayed in ascending order.
+   - The details of the events, including description, type, date, time, and priority, will be shown.
+
+10. Save events:
+    - Select option 10 from the menu.
+    - The events in the calendar will be saved to a file for later access.
+
+11. Load events:
+    - Select option 11 from the menu.
+    - The events previously saved will be loaded from a file and added to the calendar.
+
+12. Exit:
+    - Select option 12 from the menu to exit the CalendarManager.
+
+Note: 
+- The date should be entered in the format dd-MM-yyyy (e.g., 10-05-2023).
+- The time should be entered in the format HH:mm (e.g., 14:30).
+- The event types available are MEETING, APPOINTMENT, WORK, SCHOOL, TASK, and OTHER.
+- The event priorities available are HIGH, MID, and LOW.
+
+
